@@ -1,0 +1,9 @@
+.main_icon{
+    width: auto; height: auto;
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.text_align_bottom{
+    vertical-align: bottom;
+}
