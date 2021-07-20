@@ -11063,7 +11063,7 @@ body {
 
 .btn-xxl {
   padding: 1em 2rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 700;
   text-transform: uppercase;
   border: none;
@@ -11083,6 +11083,14 @@ hr.divider {
   height: 0.2rem;
   max-width: 3.25rem;
   margin: 1.5rem auto;
+  background-color: #f4623a;
+  opacity: 1;
+}
+
+hr.divider-2 {
+  height: 0.2rem;
+  max-width: 3.25rem;
+  margin: 3rem auto;
   background-color: #f4623a;
   opacity: 1;
 }
