@@ -11,3 +11,30 @@
 .footer-text-align-left{
     text-align: left;
 }
+
+
+.map-info-box {
+    margin-top: 40px;
+    text-align: left;
+    font-size: initial;
+    font-family: 'Merriweather Sans';
+    color: #dbdbdb;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+}
+
+
+.map-info-box .sp-margin-1{
+    position: absolute;
+    margin-left: 10px;
+}
+
+.map-info-box .sp-margin-2{
+    position: absolute;
+    margin-left: 100px;
+}
+
+.map-info-box .sp-margin-3{
+    position: absolute;
+    margin-left: 140px;
+}
