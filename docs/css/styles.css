@@ -3168,7 +3168,7 @@ textarea.form-control-lg {
 }
 .btn-primary:disabled, .btn-primary.disabled {
   color: #fff;
-  background-color: #f4623a;
+  background-color: #939393;
   border-color: #f4623a;
 }
 
@@ -7580,6 +7580,10 @@ textarea.form-control-lg {
 
 .text-white-50 {
   color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.text-white-80 {
+  color: rgba(255, 255, 255, 0.8) !important;
 }
 
 .text-reset {
